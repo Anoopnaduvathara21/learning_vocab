@@ -244,6 +244,7 @@
       document.getElementById('goHomeBtn').addEventListener('click', () => this.switchView('homeView'));
 
       // Quiz
+      document.getElementById('startQuizBtn').addEventListener('click', () => this.startQuiz());
       this.elements.nextQuestionBtn.addEventListener('click', () => this.nextQuizQuestion());
     },
 
@@ -320,17 +321,7 @@
         this.switchView('studyView');
         this.loadCard(0);
 
-        // Add "Start Quiz" button dynamically if not exists
-        if (!document.getElementById('startQuizBtn')) {
-          const btn = document.createElement('button');
-          btn.id = 'startQuizBtn';
-          btn.textContent = "🧠 Take Quiz";
-          btn.className = "control-btn secondary";
-          btn.style.marginTop = "10px";
-          btn.onclick = () => this.startQuiz();
-          // Insert before study controls or in header
-          document.querySelector('.study-controls').insertAdjacentElement('beforebegin', btn);
-        }
+
       }
     },
 

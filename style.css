@@ -271,7 +271,9 @@ main {
 .flashcard {
   width: 100%;
   max-width: 100%;
-  max-height: 350px;
+  /* Responsive Adjustment: Reduce height on small screens to fit controls */
+  max-height: 300px;
+  /* Reduced from 350px */
   aspect-ratio: 1.2 / 1;
   position: relative;
   transform-style: preserve-3d;
@@ -373,6 +375,34 @@ main {
 
 .control-btn:active {
   transform: scale(0.98);
+}
+
+.action-row-center {
+  display: flex;
+  justify-content: center;
+  margin-top: 12px;
+  padding-bottom: 10px;
+}
+
+.quiz-trigger-btn {
+  font-size: 0.85rem;
+  padding: 8px 16px;
+  background: var(--surface-alt);
+  color: var(--primary);
+  border: 1px solid var(--border);
+  /* Slightly more defined */
+  border-radius: 20px;
+  font-weight: 600;
+  transition: all 0.2s;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.quiz-trigger-btn:hover {
+  background: var(--primary);
+  color: white;
+  border-color: var(--primary);
 }
 
 /* --- List/Search View --- */
