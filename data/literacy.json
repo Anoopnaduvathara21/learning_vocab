@@ -1,0 +1,554 @@
+[
+  {
+    "word": "Ballad",
+    "meaning": "A poem or song narrating a story in short stanzas"
+  },
+  {
+    "word": "Concrete",
+    "meaning": "Poetry in which the meaning or effect is conveyed partly or wholly by visual means, using patterns of words or letters and other typographical devices"
+  },
+  {
+    "word": "Couplet",
+    "meaning": "Two lines of poetry that rhyme"
+  },
+  {
+    "word": "Elegy",
+    "meaning": "This is a particular type of lyric that is written to mourn the passing of something or someone"
+  },
+  {
+    "word": "Epic",
+    "meaning": "This is a very, very long poem that tells a story Epic poems are narrative poems that are long enough to be in a book of their own, rather than an anthology"
+  },
+  {
+    "word": "Epigram",
+    "meaning": "These are very short, witty poems that make a pithy pronouncement about something Usually they are written as a couplet"
+  },
+  {
+    "word": "Epitaphs",
+    "meaning": "Epitaphs are poems about the dead that are written to be on a tombstone; this means they are usually very short"
+  },
+  {
+    "word": "Euphony",
+    "meaning": "Sounds that are very pleasant to the ear The opposite of cacophony"
+  },
+  {
+    "word": "Idyll",
+    "meaning": "A short poem which depicts the rustic life of people"
+  },
+  {
+    "word": "Metaphor",
+    "meaning": "A direct comparison between two dissimilar items She is a monster is a metaphor comparing a girl to a monster"
+  },
+  {
+    "word": "Metonymy",
+    "meaning": "This is a type of metaphor in which a reference point is substituted for the thing to which reference is actually made The pen is mightier than the sword"
+  },
+  {
+    "word": "Novel",
+    "meaning": "A fictitious prose narrative of book length, typically representing character and action with some degree of realism"
+  },
+  {
+    "word": "Octave",
+    "meaning": "Eight lines of poetry that have a rhyme scheme"
+  },
+  {
+    "word": "Ode",
+    "meaning": "This is a very serious form of the lyric; it is written about a serious topic and is very dignified, if not stately, in tone and style"
+  },
+  {
+    "word": "Oxymoron",
+    "meaning": "An oxymoron is a pair of single word opposites placed side by side for dramatic effect A contradiction in terms For example, cold fire or sick health or jumbo shrimp"
+  },
+  {
+    "word": "Paradox",
+    "meaning": "A large oxymoron An apparently contradictory statement that, despite the contradiction, has an element of truth in it Wordsworth s the child is the father of the man is a paradoxical statement"
+  },
+  {
+    "word": "Parody",
+    "meaning": "A parody is a mockery of another piece of literature; it copies the style and voice, and sometimes language of the original for comedic effect ni shtamq www Black book of English language Literary Words (Poetry, Prose etc ) SN Words Definition"
+  },
+  {
+    "word": "Pastoral",
+    "meaning": "A pastoral is a poem that is set in the countryside It often presents an unrealistic, idealistic notion of country living happy shepherds, lovely shepherdesses, contented flocks of sheep, sunny meadows, and gentle weather"
+  },
+  {
+    "word": "Personification",
+    "meaning": "A comparison between a non-human item and a human so that the non-human item is given human characteristics"
+  },
+  {
+    "word": "Quatrain",
+    "meaning": "Four lines of poetry that have a rhyme scheme"
+  },
+  {
+    "word": "Satire",
+    "meaning": "A style of writing that has the goal of mocking or scorning an individual, an institution, or society as a whole"
+  },
+  {
+    "word": "Sestet",
+    "meaning": "Six lines of poetry that have a rhyme scheme"
+  },
+  {
+    "word": "Simile",
+    "meaning": "A comparison between two dissimilar items using like or as to make the comparison The stars are like diamonds in the sky is a simile, comparing stars to diamonds"
+  },
+  {
+    "word": "Sonnet",
+    "meaning": "A fourteen-line lyric written in iambic pentameter"
+  },
+  {
+    "word": "ab",
+    "meaning": "initio Latin from the beginning"
+  },
+  {
+    "word": "ad",
+    "meaning": "hoc Latin made or done for a particular purpose"
+  },
+  {
+    "word": "annus",
+    "meaning": "mirabilis Latin a remarkable or auspicious year"
+  },
+  {
+    "word": "bona",
+    "meaning": "fide Latin genuine; real"
+  },
+  {
+    "word": "carpe",
+    "meaning": "diem Latin make the most of the present time"
+  },
+  {
+    "word": "caveat",
+    "meaning": "emptor Latin the buyer is responsible for checking the quality of goods before purchasing them"
+  },
+  {
+    "word": "compos",
+    "meaning": "mentis Latin sane; in full control of one's mind"
+  },
+  {
+    "word": "cui",
+    "meaning": "bono Latin who stands to gain"
+  },
+  {
+    "word": "de",
+    "meaning": "facto Latin in fact, whether by right or not"
+  },
+  {
+    "word": "dei",
+    "meaning": "gratia Latin by the grace of God"
+  },
+  {
+    "word": "deo",
+    "meaning": "gratias Latin thanks be to God"
+  },
+  {
+    "word": "deus",
+    "meaning": "ex machina Latin an unexpected event that saves an apparently hopeless situation"
+  },
+  {
+    "word": "dramatis",
+    "meaning": "personae Latin the characters in a play"
+  },
+  {
+    "word": "ex",
+    "meaning": "gratia Latin (with reference to payment) done from a sense of moral obligation rather than because of any legal requirement"
+  },
+  {
+    "word": "in",
+    "meaning": "absentia Latin while not present"
+  },
+  {
+    "word": "inter",
+    "meaning": "alia Latin among other things"
+  },
+  {
+    "word": "ipso",
+    "meaning": "facto Latin by that very fact or act"
+  },
+  {
+    "word": "locum",
+    "meaning": "tenens Latin a temporary deputy or stand-in ni shtamq www Black book of English Vocabulary Foreign Words Phrases SN Words Origin Definition"
+  },
+  {
+    "word": "locus",
+    "meaning": "classicus Latin the best known or most authoritative passage on a subject"
+  },
+  {
+    "word": "magnum",
+    "meaning": "opus Latin the most important work of an artist, writer, etc"
+  },
+  {
+    "word": "mea",
+    "meaning": "culpa Latin an acknowledgement that something is one's fault"
+  },
+  {
+    "word": "memento",
+    "meaning": "mori Latin something kept as a reminder that death is inevitable"
+  },
+  {
+    "word": "modus",
+    "meaning": "operandi Latin a way of doing something"
+  },
+  {
+    "word": "ne",
+    "meaning": "plus ultra Latin the best example of something"
+  },
+  {
+    "word": "nil",
+    "meaning": "desperandum Latin do not despair"
+  },
+  {
+    "word": "nolens",
+    "meaning": "volens Latin whether one wants or likes something or not"
+  },
+  {
+    "word": "non",
+    "meaning": "sequitur Latin a conclusion or statement that does not logically follow from the previous statement"
+  },
+  {
+    "word": "per",
+    "meaning": "annum Latin for each year"
+  },
+  {
+    "word": "persona",
+    "meaning": "non grata Latin a person who is not welcome somewhere"
+  },
+  {
+    "word": "prima",
+    "meaning": "facie Latin accepted as so until proved otherwise"
+  },
+  {
+    "word": "primus",
+    "meaning": "inter pares Latin the senior or representative member of a group"
+  },
+  {
+    "word": "pro",
+    "meaning": "rata Latin proportional; proportionally"
+  },
+  {
+    "word": "proxime",
+    "meaning": "accessit Latin the person who comes second in an examination or is runner-up for an award"
+  },
+  {
+    "word": "quid",
+    "meaning": "pro quo Latin a favour or advantage given in return for something"
+  },
+  {
+    "word": "reductio",
+    "meaning": "ad Latin a method of disproving a premise by showing that its absurdum logical conclusion is absurd"
+  },
+  {
+    "word": "sine",
+    "meaning": "die Latin no appointed date for resumption"
+  },
+  {
+    "word": "sub",
+    "meaning": "judice Latin being considered by a court of law and therefore not to be publicly discussed elsewhere"
+  },
+  {
+    "word": "sui",
+    "meaning": "generis Latin unique"
+  },
+  {
+    "word": "terra",
+    "meaning": "firma Latin dry land; the ground"
+  },
+  {
+    "word": "via",
+    "meaning": "media Latin a compromise"
+  },
+  {
+    "word": "victor",
+    "meaning": "ludorum Latin the overall champion in a sports competition"
+  },
+  {
+    "word": "vox",
+    "meaning": "populi Latin public opinion"
+  },
+  {
+    "word": "al",
+    "meaning": "dente Italian (of food, typically pasta) cooked so as to be still firm when bitten"
+  },
+  {
+    "word": "alfresco",
+    "meaning": "Italian in the open air"
+  },
+  {
+    "word": "cognoscenti",
+    "meaning": "Italian people who are well informed about something"
+  },
+  {
+    "word": "cosa",
+    "meaning": "nostra Italian a US criminal organization related to the Mafia"
+  },
+  {
+    "word": "dolce",
+    "meaning": "far niente Italian pleasant idleness"
+  },
+  {
+    "word": "papabile",
+    "meaning": "Italian worthy or eligible to be elected pope"
+  },
+  {
+    "word": "pococurante",
+    "meaning": "Italian careless or nonchalant"
+  },
+  {
+    "word": "sotto",
+    "meaning": "voce Italian in a quiet voice"
+  },
+  {
+    "word": "blitzkrieg",
+    "meaning": "German an intense, violent military campaign intended to bring about a swift victory doppelg nger German an apparition or double of a living person"
+  },
+  {
+    "word": "katzenjammer",
+    "meaning": "German a hangover or a severe headache accompanying a hangover"
+  },
+  {
+    "word": "unheimlich",
+    "meaning": "German uncanny or weird"
+  },
+  {
+    "word": "verboten",
+    "meaning": "German forbidden"
+  },
+  {
+    "word": "zeitgeist",
+    "meaning": "German the characteristic spirit or mood of a particular historical period deux French for or involving two people"
+  },
+  {
+    "word": "agent",
+    "meaning": "provocateur French a person who tempts a suspected criminal to commit a crime so that they can be caught and convicted huis clos French in private"
+  },
+  {
+    "word": "amour",
+    "meaning": "propre French self-respect"
+  },
+  {
+    "word": "au",
+    "meaning": "courant French well informed; up to date"
+  },
+  {
+    "word": "beau",
+    "meaning": "geste French a noble and generous act"
+  },
+  {
+    "word": "beaux",
+    "meaning": "arts French the fine arts b te noire French a person or thing one particularly dislikes"
+  },
+  {
+    "word": "belles-lettres",
+    "meaning": "French literary works written and read for their elegant style"
+  },
+  {
+    "word": "billet-doux",
+    "meaning": "French a love letter"
+  },
+  {
+    "word": "bon",
+    "meaning": "mot French a clever or witty remark"
+  },
+  {
+    "word": "brasserie",
+    "meaning": "French an informal or inexpensive restaurant"
+  },
+  {
+    "word": "carte",
+    "meaning": "blanche French complete freedom to act as one wishes"
+  },
+  {
+    "word": "cause",
+    "meaning": "c l bre French a controversial issue attracting much public attention"
+  },
+  {
+    "word": "chacun",
+    "meaning": "son gout French everyone to their own taste chef-d uvre French a masterpiece"
+  },
+  {
+    "word": "cherchez",
+    "meaning": "la femme French there is certain to be a woman at the bottom of a problem or mystery"
+  },
+  {
+    "word": "comme",
+    "meaning": "il faut French correct in behaviour or etiquette"
+  },
+  {
+    "word": "cordon",
+    "meaning": "sanitaire French a guarded line placed around an area infected by disease to prevent anyone from leaving"
+  },
+  {
+    "word": "coup",
+    "meaning": "de foudre French love at first sight"
+  },
+  {
+    "word": "cri",
+    "meaning": "de c ur French a passionate appeal or protest d j vu French the sense of having experienced the present situation before"
+  },
+  {
+    "word": "dernier",
+    "meaning": "cri French the very latest fashion"
+  },
+  {
+    "word": "double",
+    "meaning": "entendre French a word or phrase with two possible interpretations"
+  },
+  {
+    "word": "embarras",
+    "meaning": "de French more options or resources than one knows what to do richesse with minence grise French a person who has power or influence without holding an official position"
+  },
+  {
+    "word": "en",
+    "meaning": "famille French with one's family; in an informal way"
+  },
+  {
+    "word": "enfant",
+    "meaning": "terrible French a person whose behaviour is unconventional or controversial"
+  },
+  {
+    "word": "entente",
+    "meaning": "cordiale French a friendly understanding between states"
+  },
+  {
+    "word": "entre",
+    "meaning": "nous French between ourselves"
+  },
+  {
+    "word": "esprit",
+    "meaning": "de corps French a feeling of pride and loyalty uniting the members of a group"
+  },
+  {
+    "word": "fait",
+    "meaning": "accompli French a thing that has been done or decided and cannot now be altered"
+  },
+  {
+    "word": "faute",
+    "meaning": "de mieux French for want of a better alternative"
+  },
+  {
+    "word": "faux",
+    "meaning": "pas French an embarrassing blunder or indiscretion"
+  },
+  {
+    "word": "femme",
+    "meaning": "fatale French a seductive woman f te champ tre French an outdoor entertainment; a garden party"
+  },
+  {
+    "word": "fin",
+    "meaning": "de si cle French relating to the end of a century"
+  },
+  {
+    "word": "force",
+    "meaning": "majeure French superior strength"
+  },
+  {
+    "word": "folie",
+    "meaning": "de grandeur French delusions of grandeur g te French a small furnished holiday house in France"
+  },
+  {
+    "word": "grande",
+    "meaning": "dame French a woman who is influential within a particular sphere"
+  },
+  {
+    "word": "haute",
+    "meaning": "couture French the designing and making of clothes by leading fashion houses"
+  },
+  {
+    "word": "haut",
+    "meaning": "monde French fashionable society"
+  },
+  {
+    "word": "hors",
+    "meaning": "de combat French out of action due to injury or damage ide fixe French an obsession"
+  },
+  {
+    "word": "je",
+    "meaning": "ne sais quoi French a quality that is hard to describe"
+  },
+  {
+    "word": "jeu",
+    "meaning": "d esprit French a light-hearted display of wit"
+  },
+  {
+    "word": "jeunesse",
+    "meaning": "dor e French wealthy, fashionable young people"
+  },
+  {
+    "word": "joie",
+    "meaning": "de vivre French exuberant enjoyment of life"
+  },
+  {
+    "word": "laissez-faire",
+    "meaning": "French a non-interventionist policy manqu French having failed to become what one might have been m nage trois French an arrangement in which a married couple and the lover of one of them live together"
+  },
+  {
+    "word": "mot",
+    "meaning": "juste French the most appropriate word or expression"
+  },
+  {
+    "word": "noblesse",
+    "meaning": "oblige French privilege entails responsibility"
+  },
+  {
+    "word": "nouveau",
+    "meaning": "riche French people who have recently become rich and who display their wealth ostentatiously"
+  },
+  {
+    "word": "objet",
+    "meaning": "d art French a small decorative or artistic object"
+  },
+  {
+    "word": "on",
+    "meaning": "dit French a piece of gossip"
+  },
+  {
+    "word": "par",
+    "meaning": "excellence French better or more than all others of the same kind"
+  },
+  {
+    "word": "parti",
+    "meaning": "pris French a preconceived view; a bias pi ce de r sistance French the most important or impressive item pied- -terre French a small flat or house kept for occasional use"
+  },
+  {
+    "word": "pis",
+    "meaning": "aller French a last resort"
+  },
+  {
+    "word": "plat",
+    "meaning": "du jour French a special dish prepared by a restaurant on a particular day"
+  },
+  {
+    "word": "plus",
+    "meaning": "a change French used to express resigned acknowledgement of the fact that certain things never change"
+  },
+  {
+    "word": "raison",
+    "meaning": "d tre French the most important reason for someone or something's existence roman- -clef French a novel in which real people or events appear with invented names"
+  },
+  {
+    "word": "sangfroid",
+    "meaning": "French the ability to stay calm in difficult circumstances"
+  },
+  {
+    "word": "savoir",
+    "meaning": "faire French the ability to act appropriately in social situations"
+  },
+  {
+    "word": "soi-disant",
+    "meaning": "French self-styled; so-called"
+  },
+  {
+    "word": "table",
+    "meaning": "d h te French a restaurant meal offered at a fixed price, with few if any choices"
+  },
+  {
+    "word": "tant",
+    "meaning": "mieux French so much the better"
+  },
+  {
+    "word": "tour",
+    "meaning": "de force French a thing accomplished with great skill"
+  },
+  {
+    "word": "tout",
+    "meaning": "de suite French at once vis- -vis French in relation to; as compared with"
+  }
+]

@@ -1,0 +1,1998 @@
+[
+  {
+    "word": "Infallible",
+    "meaning": "that never fails // always doing what it is supposed to do"
+  },
+  {
+    "word": "Misogynist",
+    "meaning": "a person who dislikes women"
+  },
+  {
+    "word": "Philanthropist",
+    "meaning": "a rich person who helps the poor and those in need, especially by giving money"
+  },
+  {
+    "word": "Misanthrope",
+    "meaning": "a person who hates and avoids other people"
+  },
+  {
+    "word": "Bureaucracy",
+    "meaning": "a system of government in which there are a large number of state officials who are not elected"
+  },
+  {
+    "word": "Cannibal",
+    "meaning": "a person who eats human flesh"
+  },
+  {
+    "word": "Claustrophobia",
+    "meaning": "an extreme fear of being in a small confined place"
+  },
+  {
+    "word": "Egoist",
+    "meaning": "a person who thinks he/she is better than other people and who thinks and talks too much about himself/herself"
+  },
+  {
+    "word": "Elegy",
+    "meaning": "a poem/song that expresses sadness, especially for somebody who has died"
+  },
+  {
+    "word": "Epilogue",
+    "meaning": "a speech at the end of a play, book, or film/movie that comments on or acts as a conclusion to what has happened"
+  },
+  {
+    "word": "Epitaph",
+    "meaning": "an inscription on a tombstone"
+  },
+  {
+    "word": "Fastidious",
+    "meaning": "being careful that every detail is correct // not liking things to be dirty/ untidy"
+  },
+  {
+    "word": "Inevitable",
+    "meaning": "that you cannot avoid/prevent"
+  },
+  {
+    "word": "Oligarchy",
+    "meaning": "a form of government in which only a small group of people hold all the power"
+  },
+  {
+    "word": "Optimist",
+    "meaning": "a person who always expects good things to happen or things to be successful"
+  },
+  {
+    "word": "Panacea",
+    "meaning": "something that will solve all the problems of a particular situation"
+  },
+  {
+    "word": "Altruist",
+    "meaning": "someone who makes charitable donations intended to increase human wellbeing"
+  },
+  {
+    "word": "Aristocracy",
+    "meaning": "the rule by nobles / government by person of highest social order"
+  },
+  {
+    "word": "Atheist",
+    "meaning": "a person who believes that god does not exist"
+  },
+  {
+    "word": "Calligraphy",
+    "meaning": "beautiful handwriting that you do with a special pen/brush"
+  },
+  {
+    "word": "Connoisseur",
+    "meaning": "an expert on matters involving the judgmental beauty, quality or skill in art, food or music"
+  },
+  {
+    "word": "Fatalist",
+    "meaning": "a person who believes that events are decided by fate and cannot be controlled"
+  },
+  {
+    "word": "Invincible",
+    "meaning": "too strong to be defeated/changed"
+  },
+  {
+    "word": "Mercenary",
+    "meaning": "a soldier who will fight for any country/group that offers payment"
+  },
+  {
+    "word": "Ascetic",
+    "meaning": "a person who lives in a simple and strict way, without physical pleasures, especially for religious reasons (monks, hermits, saints)"
+  },
+  {
+    "word": "Carnivorous",
+    "meaning": "animals that eat meat"
+  },
+  {
+    "word": "Cartography",
+    "meaning": "the art or process of drawing or making maps"
+  },
+  {
+    "word": "Etymology",
+    "meaning": "the study of the origin and history of words - and their meanings"
+  },
+  {
+    "word": "Homicide",
+    "meaning": "the crime of killing somebody deliberately"
+  },
+  {
+    "word": "Iconoclast",
+    "meaning": "a person who criticizes popular beliefs/ established customs and ideas"
+  },
+  {
+    "word": "Illegible",
+    "meaning": "difficult/ impossible to read"
+  },
+  {
+    "word": "Incorrigible",
+    "meaning": "having bad habits which cannot be changed or improved"
+  },
+  {
+    "word": "Insomnia",
+    "meaning": "the condition of being unable to sleep"
+  },
+  {
+    "word": "Nepotism",
+    "meaning": "giving unfair advantages to your own - family if you are in a position of power, especially by giving them jobs"
+  },
+  {
+    "word": "Obsolete",
+    "meaning": "no longer used because something new has been invented"
+  },
+  {
+    "word": "Patricide",
+    "meaning": "the crime of killing your father"
+  },
+  {
+    "word": "Philatelist",
+    "meaning": "a person who collects or studies stamps"
+  },
+  {
+    "word": "Stoic",
+    "meaning": "a person who is able to suffer pain/trouble without complaining/showing what they are feeling"
+  },
+  {
+    "word": "Alien",
+    "meaning": "hostile, strange and frightening // different from what you are used to"
+  },
+  {
+    "word": "Amateur",
+    "meaning": "a person who likes to take part in a sport/ other activity for enjoyment, not as a job"
+  },
+  {
+    "word": "Amnesia",
+    "meaning": "a medical condition in which somebody partly/ completely loses his memory"
+  },
+  {
+    "word": "Anarchy",
+    "meaning": "a situation in a country, an organization, etc in which there is no government, order/control"
+  },
+  {
+    "word": "Anthropology",
+    "meaning": "the study of human race, especially of its origin, development, customs and beliefs"
+  },
+  {
+    "word": "Archives",
+    "meaning": "a collection of historical documents/records of a government, a family, a place or an organization"
+  },
+  {
+    "word": "Credible",
+    "meaning": "that can be believed or trusted"
+  },
+  {
+    "word": "Effeminate",
+    "meaning": "looking, behaving/ sounding like women/ a girl"
+  },
+  {
+    "word": "Feminist",
+    "meaning": "a person who supports the belief that women should have the same rights and opportunities as men"
+  },
+  {
+    "word": "Genocide",
+    "meaning": "the murder of a whole race or a group of people"
+  },
+  {
+    "word": "Gullible",
+    "meaning": "easily tricked because of being too trusting"
+  },
+  {
+    "word": "Honorarium",
+    "meaning": "a payment made for somebody s professional services // a fee paid for a nominally free service"
+  },
+  {
+    "word": "Imposter",
+    "meaning": "a person who pretends to be somebody else in order to trick people"
+  },
+  {
+    "word": "Insolvent",
+    "meaning": "a person not having enough to pay what he owes"
+  },
+  {
+    "word": "Itinerary",
+    "meaning": "a plan of a journey, including the route and the places that you visit"
+  },
+  {
+    "word": "Monarchy",
+    "meaning": "a system of government by a king/a queen -"
+  },
+  {
+    "word": "Obituary",
+    "meaning": "a notice of someone s death (with his life and achievements)"
+  },
+  {
+    "word": "Ornithology",
+    "meaning": "the scientific study of birds"
+  },
+  {
+    "word": "Plutocracy",
+    "meaning": "government by the richest people of a country"
+  },
+  {
+    "word": "Polyglot",
+    "meaning": "a person who knows, uses/writes in more than one language"
+  },
+  {
+    "word": "Sinecure",
+    "meaning": "a job that you are paid for even though it involves little/no work"
+  },
+  {
+    "word": "Amnesty",
+    "meaning": "an official statement that allows people - who have been put in prison for crimes against the state to go free"
+  },
+  {
+    "word": "Aquatic",
+    "meaning": "growing or living in, or near water"
+  },
+  {
+    "word": "Archaeology",
+    "meaning": "the study of cultures of the past, and of periods of history by examining the remains of buildings and objects found in the ground"
+  },
+  {
+    "word": "Biography",
+    "meaning": "the story of ap erson sl ife w rittenb y somebody else"
+  },
+  {
+    "word": "Cynic",
+    "meaning": "someone who is critical of the motives of others"
+  },
+  {
+    "word": "Emigrant",
+    "meaning": "a person who leaves his country to live in another"
+  },
+  {
+    "word": "Extempore",
+    "meaning": "spoken/ done without any previous thought/ preparation"
+  },
+  {
+    "word": "Fanatic",
+    "meaning": "extremely enthusiastic about one's belief"
+  },
+  {
+    "word": "Hermit",
+    "meaning": "a person who, usually for religious reasons, lives a very simple life alone and does not meet/ talk to other people"
+  },
+  {
+    "word": "Kleptomania",
+    "meaning": "a mental illness in which somebody has a strong desire, which they cannot control, to steal things"
+  },
+  {
+    "word": "Notorious",
+    "meaning": "well-known for being bad"
+  },
+  {
+    "word": "Numismatist",
+    "meaning": "a person who collects or studies coins or medals"
+  },
+  {
+    "word": "Ode",
+    "meaning": "a poem that speaks to a person/thing/celebrates a special event"
+  },
+  {
+    "word": "Pedant",
+    "meaning": "a person who pays more attention to formal rules and book learning than they merit"
+  },
+  {
+    "word": "Philology",
+    "meaning": "the scientific study of the development of language or of a particular language"
+  },
+  {
+    "word": "Red",
+    "meaning": "Tapism the practice of requiring excessive - paperwork and tedious procedures before official action can be considered/ completed"
+  },
+  {
+    "word": "Reticent",
+    "meaning": "unwilling to tell people about things / one who speaks less"
+  },
+  {
+    "word": "Sacrilege",
+    "meaning": "an act of treating a holy thing or place without respect"
+  },
+  {
+    "word": "Sonnet",
+    "meaning": "a poem that has lines, each containing syllables, and a fixed pattern of rhyme"
+  },
+  {
+    "word": "Theocracy",
+    "meaning": "government of a country by religious leaders"
+  },
+  {
+    "word": "Xenophobia",
+    "meaning": "a fear of people from other countries"
+  },
+  {
+    "word": "Abolish",
+    "meaning": "formally put an end to a system, practice, or institution"
+  },
+  {
+    "word": "Accomplice",
+    "meaning": "a person who helps another to commit a - crime/ to do something wrong"
+  },
+  {
+    "word": "Agenda",
+    "meaning": "a list of items to be discussed at a meeting"
+  },
+  {
+    "word": "Apiary",
+    "meaning": "a place where bees are kept"
+  },
+  {
+    "word": "Aquarium",
+    "meaning": "a glass tank where fish and water plants are kept"
+  },
+  {
+    "word": "Atheism",
+    "meaning": "the belief that god does not exist"
+  },
+  {
+    "word": "Autocracy",
+    "meaning": "a system of government of a country in which one person has complete power"
+  },
+  {
+    "word": "Aviary",
+    "meaning": "a place where birds are kept"
+  },
+  {
+    "word": "Ballad",
+    "meaning": "a song/poem that tells a story"
+  },
+  {
+    "word": "Bibliography",
+    "meaning": "a list of books or articles about a particular subject or by a particular author"
+  },
+  {
+    "word": "Bigot",
+    "meaning": "a person who has very strong, unreasonable beliefs or opinions about race, religion/ politics and who will not listen to/ accept the opinions of anyone who disagrees"
+  },
+  {
+    "word": "Bohemian",
+    "meaning": "a person who is involved with the arts, who lives in a very informal way without following accepted rules of behaviour"
+  },
+  {
+    "word": "Brittle",
+    "meaning": "hard but easily broken"
+  },
+  {
+    "word": "Chauffeur",
+    "meaning": "a person whose job is to drive a car, - especially for somebody rich/important"
+  },
+  {
+    "word": "Cosmopolitan",
+    "meaning": "a person who has the experience of many different parts of the world"
+  },
+  {
+    "word": "Democracy",
+    "meaning": "a country in which all the people of the country can vote to elect their representatives"
+  },
+  {
+    "word": "Dictatorship",
+    "meaning": "a form of government by a ruler who has complete power over a country, especially one who has gained it using military force"
+  },
+  {
+    "word": "Eccentric",
+    "meaning": "a person who is considered by other people to be strange/unusual"
+  },
+  {
+    "word": "Entomology",
+    "meaning": "the scientific study of insects"
+  },
+  {
+    "word": "Epicure",
+    "meaning": "a person who enjoys food and drink of high - quality and knows a lot about it"
+  },
+  {
+    "word": "Ethnology",
+    "meaning": "the scientific study and comparison of human races"
+  },
+  {
+    "word": "Exonerate",
+    "meaning": "to officially state that somebody is not responsible for something that he has been blamed for"
+  },
+  {
+    "word": "Extravagant",
+    "meaning": "spending a lot of more money/using a lot more of something that you can afford or than is necessary"
+  },
+  {
+    "word": "Fauna",
+    "meaning": "all the animals living in an area or in a particular period of history"
+  },
+  {
+    "word": "Fratricide",
+    "meaning": "the crime of killing your brother/sister"
+  },
+  {
+    "word": "Glutton",
+    "meaning": "a person who eats too much"
+  },
+  {
+    "word": "Hypochondriac",
+    "meaning": "worried all the time about your health and believing that you are ill/sick when there is nothing wrong with you"
+  },
+  {
+    "word": "Hypocrite",
+    "meaning": "a person who pretends to have moral standards/ opinions that they do not actually have"
+  },
+  {
+    "word": "Immigrant",
+    "meaning": "a person who comes to a country where they were not born in order to settle there"
+  },
+  {
+    "word": "Inaudible",
+    "meaning": "that you cannot hear"
+  },
+  {
+    "word": "Incredible",
+    "meaning": "impossible/difficult to believe"
+  },
+  {
+    "word": "Indefatigable",
+    "meaning": "never giving up or getting tired of doing something"
+  },
+  {
+    "word": "Indigenous",
+    "meaning": "Originating or occurring naturally in the place or country where found // native"
+  },
+  {
+    "word": "Ineffable",
+    "meaning": "too great/beautiful to describe in words"
+  },
+  {
+    "word": "Intestate",
+    "meaning": "having made no legal will"
+  },
+  {
+    "word": "Lexicographer",
+    "meaning": "a person who writes and edits dictionaries"
+  },
+  {
+    "word": "Manuscript",
+    "meaning": "a copy of a book, piece of music, etc before it has been printed"
+  },
+  {
+    "word": "Martyr",
+    "meaning": "a person who suffers very much or is killed because of his religious/ political beliefs"
+  },
+  {
+    "word": "Matricide",
+    "meaning": "the killing of one s mother"
+  },
+  {
+    "word": "Mortuary",
+    "meaning": "a place/room/building in which dead bodies are kept before they are buried/cremated"
+  },
+  {
+    "word": "Narcissist",
+    "meaning": "a person who admires himself/herself too much, especially his appearance"
+  },
+  {
+    "word": "Omnivorous",
+    "meaning": "eating all types of food (plants and meat) -"
+  },
+  {
+    "word": "Opaque",
+    "meaning": "not clear enough to see through/ allow light through"
+  },
+  {
+    "word": "Pacifist",
+    "meaning": "a person who believes that war and violent are always wrong"
+  },
+  {
+    "word": "Parable",
+    "meaning": "a short story that teaches a spiritual lesson, especially one of those told by Jesus as recorded in the bible"
+  },
+  {
+    "word": "Philistine",
+    "meaning": "a person who does not like/understand art, literature, music, etc"
+  },
+  {
+    "word": "Plagiarism",
+    "meaning": "an act of copying another person s ideas, words or work and pretend that they are your own"
+  },
+  {
+    "word": "Polygamy",
+    "meaning": "the custom of having more than one wife at the same time"
+  },
+  {
+    "word": "Psychology",
+    "meaning": "the scientific study of the mind and how it influences behaviour"
+  },
+  {
+    "word": "Recluse",
+    "meaning": "a person who lives alone and likes to avoid other people"
+  },
+  {
+    "word": "Regicide",
+    "meaning": "the crime of killing a king/queen -"
+  },
+  {
+    "word": "Sanatorium",
+    "meaning": "a place like a hospital where patients who have a lasting illness/who are getting better after an illness are treated"
+  },
+  {
+    "word": "Secular",
+    "meaning": "living among ordinary people rather than in a religious community // Government not connected with religious or spiritual matters"
+  },
+  {
+    "word": "Soliloquy",
+    "meaning": "a speech in a play in which a character, who is alone on the stage, speaks his/her thoughts"
+  },
+  {
+    "word": "Suicide",
+    "meaning": "the act of killing yourself deliberately"
+  },
+  {
+    "word": "Translucent",
+    "meaning": "allowing light to pass through but not transparent"
+  },
+  {
+    "word": "Transparent",
+    "meaning": "allowing you to see through it (glass etc )"
+  },
+  {
+    "word": "Wreath",
+    "meaning": "an arrangement of flowers and leaves (in a circle) placed on graves, worn on head/ hung on doors as Christmas decoration"
+  },
+  {
+    "word": "Abdicate",
+    "meaning": "to give up the position of being king/queen"
+  },
+  {
+    "word": "Affable",
+    "meaning": "pleasant, friendly and easy to talk to"
+  },
+  {
+    "word": "Ambidextrous",
+    "meaning": "able to use both the hands equally well ,"
+  },
+  {
+    "word": "Amphibians",
+    "meaning": "any animal that can live both on land and in water // a cold-blooded vertebrate typically living on land but breeding in water"
+  },
+  {
+    "word": "Anarchist",
+    "meaning": "a person who believes that laws and governments are not necessary"
+  },
+  {
+    "word": "Apathy",
+    "meaning": "the feeling of not being interested in or enthusiastic"
+  },
+  {
+    "word": "Archipelago",
+    "meaning": "a large body of water with many islands"
+  },
+  {
+    "word": "Asylum",
+    "meaning": "protection that a government gives to // people who have left their own country, because they were in danger for political reasons // a hospital where people who were mentally ill could be cared for, often for a long time"
+  },
+  {
+    "word": "Audible",
+    "meaning": "that can be heard clearly"
+  },
+  {
+    "word": "Authentic",
+    "meaning": "made or done in the traditional or original way"
+  },
+  {
+    "word": "Autobiography",
+    "meaning": "a biography of yourself"
+  },
+  {
+    "word": "Blasphemy",
+    "meaning": "behaviour/ language that insults/shows a - lack of respect for god/ religion"
+  },
+  {
+    "word": "Carnivore",
+    "meaning": "eats the flesh of other animals (animal)"
+  },
+  {
+    "word": "Catalogue",
+    "meaning": "a complete list of items, for example, of things that people can look at/buy"
+  },
+  {
+    "word": "Circumlocution",
+    "meaning": "using more words than are necessary instead of speaking or writing in a clear/direct way"
+  },
+  {
+    "word": "Congregation",
+    "meaning": "a group of people who are gathered together in a church to worship god"
+  },
+  {
+    "word": "Cordial",
+    "meaning": "warm and sincere"
+  },
+  {
+    "word": "Credulous",
+    "meaning": "ready to believe things and therefore easy - to trick"
+  },
+  {
+    "word": "Curator",
+    "meaning": "a person whose job is to be in charge of the objects or words of art in a museum or art gallery, etc"
+  },
+  {
+    "word": "Demagogue",
+    "meaning": "a political leader who tries to win support by using arguments based on emotion rather than reason"
+  },
+  {
+    "word": "Dermatology",
+    "meaning": "the scientific study of skin diseases"
+  },
+  {
+    "word": "Dilettante",
+    "meaning": "a person who does or studies something but is not serious about it and does not have much knowledge / a dabbler in the art and literature"
+  },
+  {
+    "word": "Ecology",
+    "meaning": "the study of the relation of plants and living creatures to each other and to their environment"
+  },
+  {
+    "word": "Edible",
+    "meaning": "fit/ suitable to be eaten"
+  },
+  {
+    "word": "Emissary",
+    "meaning": "a person who is sent to deliver an official message from one country to another or to perform a special task"
+  },
+  {
+    "word": "Empathy",
+    "meaning": "the ability to understand another person s feelings, experience, etc"
+  },
+  {
+    "word": "Endemic",
+    "meaning": "regularly found in a particular place or among a particular group of people and difficult to get rid of // A disease that is prevalent in a particular area"
+  },
+  {
+    "word": "Ephemeral",
+    "meaning": "lasting/ used for only a short period of time"
+  },
+  {
+    "word": "Epigraph",
+    "meaning": "an engraved inscription"
+  },
+  {
+    "word": "Epitome",
+    "meaning": "a person or thing that is a perfect example of a particular quality or type"
+  },
+  {
+    "word": "Eternal",
+    "meaning": "continuing forever"
+  },
+  {
+    "word": "Exemplary",
+    "meaning": "severe punishment used as a warning to others // providing a good example for people to copy"
+  },
+  {
+    "word": "Expatriate",
+    "meaning": "a person living in a country that is not his own"
+  },
+  {
+    "word": "Fidelity",
+    "meaning": "loyalty accuracy"
+  },
+  {
+    "word": "Fugitive",
+    "meaning": "a person who has escaped/is running away from somewhere and is trying to avoid being caught"
+  },
+  {
+    "word": "Geography",
+    "meaning": "the scientific study of the earth s surface, physical features, divisions, products, population, etc"
+  },
+  {
+    "word": "Gregarious",
+    "meaning": "liking to be with other people // living in groups (animals)"
+  },
+  {
+    "word": "Hallucination",
+    "meaning": "the fact of seeing/hearing something that is not really there"
+  },
+  {
+    "word": "Hedonist",
+    "meaning": "a person who believes that pleasure is the most important thing in life"
+  },
+  {
+    "word": "Herbivorous",
+    "meaning": "animals that feed on plants"
+  },
+  {
+    "word": "Heresy",
+    "meaning": "a belief or an opinion that is against the principle of a particular religion"
+  },
+  {
+    "word": "Honorary",
+    "meaning": "given as an honour"
+  },
+  {
+    "word": "Horticulture",
+    "meaning": "the study/practice of growing flowers, fruits and vegetables"
+  },
+  {
+    "word": "Hydrophobia",
+    "meaning": "extreme fear of water"
+  },
+  {
+    "word": "Incentive",
+    "meaning": "something that encourages you to do something"
+  },
+  {
+    "word": "Infanticide",
+    "meaning": "the crime of killing a baby"
+  },
+  {
+    "word": "Itinerant",
+    "meaning": "travelling from place to place, especially to find work"
+  },
+  {
+    "word": "Juxtapose",
+    "meaning": "place side by side"
+  },
+  {
+    "word": "Maiden",
+    "meaning": "being the first of its kind (speech, journey by a plane/ship), etc"
+  },
+  {
+    "word": "Masochist",
+    "meaning": "someone who obtains pleasure from - receiving punishment"
+  },
+  {
+    "word": "Megalomania",
+    "meaning": "a mental illness/condition in which somebody has an exaggerated belief in their own importance/ power"
+  },
+  {
+    "word": "Misogamist",
+    "meaning": "a person who hates marriage"
+  },
+  {
+    "word": "Neutral",
+    "meaning": "not supporting/ helping either side in a disagreement, competition, etc"
+  },
+  {
+    "word": "Novice",
+    "meaning": "a person who is new and has little experience in a skill, job or situation"
+  },
+  {
+    "word": "Obscure",
+    "meaning": "not clearly understood or expressed"
+  },
+  {
+    "word": "Omniscient",
+    "meaning": "knowing everything"
+  },
+  {
+    "word": "Palpable",
+    "meaning": "able to be touched or felt"
+  },
+  {
+    "word": "Parricide",
+    "meaning": "the crime of killing your father, mother or a close relative"
+  },
+  {
+    "word": "Patrimony",
+    "meaning": "property that is given to somebody when his father dies"
+  },
+  {
+    "word": "Perseverance",
+    "meaning": "the quality of continuing to try to achieve a particular aim despite difficulties"
+  },
+  {
+    "word": "Pessimist",
+    "meaning": "a person who always expects bad things to happen or something not to be successful"
+  },
+  {
+    "word": "Philanderer",
+    "meaning": "a man who has sexual relationships with many different women"
+  },
+  {
+    "word": "Philogynist",
+    "meaning": "a person who esteems woman as the higher type of humanity"
+  },
+  {
+    "word": "Philosophy",
+    "meaning": "the study of the nature and meaning of the universe and of the human life"
+  },
+  {
+    "word": "Physiology",
+    "meaning": "the study of the normal functions of living things"
+  },
+  {
+    "word": "Polyandry",
+    "meaning": "the custom of having more than one husband at the same time"
+  },
+  {
+    "word": "Prologue",
+    "meaning": "a speech, etc at the beginning of a play, book, or film that introduces it"
+  },
+  {
+    "word": "Psephology",
+    "meaning": "the study of how people vote in elections"
+  },
+  {
+    "word": "Pseudonym",
+    "meaning": "a fictitious name used instead of his real names"
+  },
+  {
+    "word": "Scullery",
+    "meaning": "a small room next to the kitchen in an old house, originally used for washing dishes, etc"
+  },
+  {
+    "word": "Sociology",
+    "meaning": "the study and classification of human societies"
+  },
+  {
+    "word": "Spinster",
+    "meaning": "an old unmarried woman"
+  },
+  {
+    "word": "Stoicism",
+    "meaning": "the fact of not explaining/showing what you are feeling when you are suffering"
+  },
+  {
+    "word": "Theist",
+    "meaning": "one who believes in the existence of god"
+  },
+  {
+    "word": "Universal",
+    "meaning": "done by or involving all the people in the world or in a particular group"
+  },
+  {
+    "word": "Versatile",
+    "meaning": "able to do many things"
+  },
+  {
+    "word": "Zoology",
+    "meaning": "the branch of biology that studies animals"
+  },
+  {
+    "word": "Abduct",
+    "meaning": "to take somebody away illegally, especially using force"
+  },
+  {
+    "word": "Absolute",
+    "meaning": "one who is perfect/complete/free from imperfection"
+  },
+  {
+    "word": "Acquit",
+    "meaning": "to decide and state officially in court that somebody is not guilty of a crime"
+  },
+  {
+    "word": "Acrophobia",
+    "meaning": "fear of great heights"
+  },
+  {
+    "word": "Actuary",
+    "meaning": "someone versed in the collection and interpretation of numerical data (especially someone who uses statistics to calculate insurance premiums)"
+  },
+  {
+    "word": "Addict",
+    "meaning": "a person who is very interested in , something and spends a lot of his free time in it // a person who is unable to stop taking harmful drugs"
+  },
+  {
+    "word": "Adolescent",
+    "meaning": "in the process of developing from a child into an adult"
+  },
+  {
+    "word": "Aerial",
+    "meaning": "growing / existing in air"
+  },
+  {
+    "word": "Agnostic",
+    "meaning": "a person who doubts truth of religion"
+  },
+  {
+    "word": "Alimony",
+    "meaning": "the money that a court orders somebody to pay regularly to his former wife/ husband when the marriage is ended"
+  },
+  {
+    "word": "Allegory",
+    "meaning": "a story, play, picture, etc in which each character/event is a symbol representing an idea/a quality, such as truth, evil, death, etc"
+  },
+  {
+    "word": "Ambiguous",
+    "meaning": "that can be understood in more than one way // not clearly defined or stated"
+  },
+  {
+    "word": "Ambivert",
+    "meaning": "a person who is both an introvert and an extrovert"
+  },
+  {
+    "word": "Amoral",
+    "meaning": "not following any moral rules and not caring about right/wrong"
+  },
+  {
+    "word": "Anecdote",
+    "meaning": "a short, interesting or amusing story about a real person or an event"
+  },
+  {
+    "word": "Anonymous",
+    "meaning": "with a name that is not known/ that is not made public"
+  },
+  {
+    "word": "Antidote",
+    "meaning": "a substance that controls the effects of poison/ disease"
+  },
+  {
+    "word": "Antiseptic",
+    "meaning": "a substance that helps to prevent infection in wounds by killing bacteria"
+  },
+  {
+    "word": "Apathetic",
+    "meaning": "showing or feeling no interest, enthusiasm, or concern"
+  },
+  {
+    "word": "Apprentice",
+    "meaning": "a person who works for an expert to learn a trade"
+  },
+  {
+    "word": "Arbitrator",
+    "meaning": "a person who is chosen to settle a disagreement"
+  },
+  {
+    "word": "Archaeologist",
+    "meaning": "a person who studies cultures of the past, and of periods of history by examining the remains of buildings and objects found in the ground"
+  },
+  {
+    "word": "Articulate",
+    "meaning": "good at expressing ideas/ feelings clearly , in words (speech)"
+  },
+  {
+    "word": "Artist",
+    "meaning": "a person who creates works of art- paintings/ drawings"
+  },
+  {
+    "word": "Avarice",
+    "meaning": "extreme desire for wealth"
+  },
+  {
+    "word": "Barometer",
+    "meaning": "an instrument for measuring air pressure to show when the weather will change"
+  },
+  {
+    "word": "Beneficiary",
+    "meaning": "a person who gains as a results of something"
+  },
+  {
+    "word": "Bibliographer",
+    "meaning": "someone trained in compiling books/articles about a particular subject"
+  },
+  {
+    "word": "Bibliophile",
+    "meaning": "a person who loves or collects books"
+  },
+  {
+    "word": "Bouquet",
+    "meaning": "a bunch of flowers arranged in an attractive way so that it can be carried in a ceremony/presented as a gift"
+  },
+  {
+    "word": "Bovine",
+    "meaning": "connected with cows"
+  },
+  {
+    "word": "Calligrapher",
+    "meaning": "someone skilled in penmanship (calligraphy beautiful writing done with a special pen/brush)"
+  },
+  {
+    "word": "Callous",
+    "meaning": "not caring about other people s feelings or suffering"
+  },
+  {
+    "word": "Cellar",
+    "meaning": "an underground room often used for storing things (wine, salt, etc )"
+  },
+  {
+    "word": "Centenarian",
+    "meaning": "a person who is a years old or more"
+  },
+  {
+    "word": "Choreography",
+    "meaning": "the act of designing and arranging the steps"
+  },
+  {
+    "word": "Colleague",
+    "meaning": "a person that one work with at the same place, in a profession or a business"
+  },
+  {
+    "word": "Communist",
+    "meaning": "a person who believes in or supports living together and sharing possessions and responsibilities"
+  },
+  {
+    "word": "Compromise",
+    "meaning": "an agreement made between two people or groups"
+  },
+  {
+    "word": "Conservative",
+    "meaning": "holding to traditional attitudes and values , and cautious about change or innovation // a person who is opposed to great/sudden social change"
+  },
+  {
+    "word": "Criminal",
+    "meaning": "connected with crime"
+  },
+  {
+    "word": "Culpable",
+    "meaning": "responsible and deserving blame for having done something wrong"
+  },
+  {
+    "word": "Cynosure",
+    "meaning": "centre of attraction -"
+  },
+  {
+    "word": "Derelict",
+    "meaning": "a person without a home, a job or property"
+  },
+  {
+    "word": "Dialogue",
+    "meaning": "conversations in a look, play or film/movie"
+  },
+  {
+    "word": "Dipsomania",
+    "meaning": "an intense persistent desire to drink alcoholic beverages to excess"
+  },
+  {
+    "word": "Dirge",
+    "meaning": "a song sung in the past at a funeral or for a dead person"
+  },
+  {
+    "word": "Effaced",
+    "meaning": "remove completely from recognition/memory // remove by or as if by rubbing / erasing"
+  },
+  {
+    "word": "Egotist",
+    "meaning": "A person who is excessively conceited or absorbed in themselves"
+  },
+  {
+    "word": "Eligible",
+    "meaning": "a person who is able to have/do something because he has the right qualifications, is the right age, etc"
+  },
+  {
+    "word": "Emancipation",
+    "meaning": "freeing someone from the control of another"
+  },
+  {
+    "word": "Embezzlement",
+    "meaning": "the act of stealing money that you are responsible for or that belongs to your employer / misappropriation of money"
+  },
+  {
+    "word": "Emeritus",
+    "meaning": "one who is honorably discharged from service"
+  },
+  {
+    "word": "Ennui",
+    "meaning": "a state of mental weariness from lack of occupation"
+  },
+  {
+    "word": "Entomologist",
+    "meaning": "a zoologist (person) who studies insects"
+  },
+  {
+    "word": "Envious",
+    "meaning": "feeling of discontented aroused by someone else's possessions or qualities"
+  },
+  {
+    "word": "Environment",
+    "meaning": "the conditions that affect the behaviour and development of somebody/ something"
+  },
+  {
+    "word": "Epidemic",
+    "meaning": "a large number of cases of a particular disease happening at the same time in a particular community"
+  },
+  {
+    "word": "Epigram",
+    "meaning": "a short poem/ phrase that expresses an idea in a clever/amusing way"
+  },
+  {
+    "word": "Eulogy",
+    "meaning": "a speech/piece of writing praising somebody/ something very"
+  },
+  {
+    "word": "Euphemism",
+    "meaning": "much an indirect word/phrase that people often use to refer to something"
+  },
+  {
+    "word": "Expose",
+    "meaning": "embarrassing or unpleasant to make known to the public, information that was previously known"
+  },
+  {
+    "word": "Fable",
+    "meaning": "only to a few people or that was meant to be kept a secret a traditional short story"
+  },
+  {
+    "word": "Fantasy",
+    "meaning": "that teaches a moral lesson (animals) a pleasant situation that you imagine"
+  },
+  {
+    "word": "Fascist",
+    "meaning": "but that is unlikely to happen a person who supports an extreme political system or attitude which is in favour of strong central government and"
+  },
+  {
+    "word": "Fatal",
+    "meaning": "cwauhsicinhg d oore se nndoitn agl lionw d eaantyh opposition"
+  },
+  {
+    "word": "Feline",
+    "meaning": "connected with an animal of the cat family"
+  },
+  {
+    "word": "Flexible",
+    "meaning": "able to change to suit new conditions/ situations"
+  },
+  {
+    "word": "Flora",
+    "meaning": "the plants of a particular area, type of environment or period of time"
+  },
+  {
+    "word": "Genealogy",
+    "meaning": "the study of family history, including the study of who the ancestors of a particular person were"
+  },
+  {
+    "word": "Geology",
+    "meaning": "the study of earth, including the origin and history of the rocks and soil of which the earth is made"
+  },
+  {
+    "word": "Germicide",
+    "meaning": "a substance which destroys bacteria, etc"
+  },
+  {
+    "word": "Herbivore",
+    "meaning": "eats only plants (animal)"
+  },
+  {
+    "word": "Heretic",
+    "meaning": "a person who holds unorthodox opinions"
+  },
+  {
+    "word": "Hijack",
+    "meaning": "to use violence or threats to take control of a vehicle, in order to force it to travel to a different place or to demand something from a government"
+  },
+  {
+    "word": "Homage",
+    "meaning": "something that is said/done to show respect for somebody"
+  },
+  {
+    "word": "Homogeneous",
+    "meaning": "all (things or people) of the same or similar kind or nature"
+  },
+  {
+    "word": "Horizon",
+    "meaning": "the furthest you can see, where the sky seems to meet the land/the sea"
+  },
+  {
+    "word": "Humanitarian",
+    "meaning": "concerned with reducing suffering and improving the conditions that people live in"
+  },
+  {
+    "word": "Hymn",
+    "meaning": "a song of praise (to god or to a saint or to a nation)"
+  },
+  {
+    "word": "Idiosyncrasy",
+    "meaning": "a person s particular way of behaving, thinking, etc , especially when it is unusual"
+  },
+  {
+    "word": "Illicit",
+    "meaning": "not allowed by law"
+  },
+  {
+    "word": "Illiterate",
+    "meaning": "not knowing how to read/ write"
+  },
+  {
+    "word": "Implorer",
+    "meaning": "a person who asks somebody to do - something because he wants/ needs it very much"
+  },
+  {
+    "word": "Impregnable",
+    "meaning": "strong and impossible to defeat/change"
+  },
+  {
+    "word": "Inaccessible",
+    "meaning": "difficult/ impossible to reach/ to get"
+  },
+  {
+    "word": "Indelible",
+    "meaning": "that cannot be removed/erased"
+  },
+  {
+    "word": "Indict",
+    "meaning": "accuse formally of a crime"
+  },
+  {
+    "word": "Ineligible",
+    "meaning": "not having necessary qualifications to have/ do something"
+  },
+  {
+    "word": "Inexorable",
+    "meaning": "that cannot be stopped or changed"
+  },
+  {
+    "word": "Interment",
+    "meaning": "the act of burying a dead person"
+  },
+  {
+    "word": "Internment",
+    "meaning": "the act of confining someone in a prison"
+  },
+  {
+    "word": "Interregnum",
+    "meaning": "a period of time during which a country, an organization, etc does not have a leader and is waiting for a new one"
+  },
+  {
+    "word": "Judge",
+    "meaning": "a person in a court who has the authority to decide how criminals should be punished or to make legal decisions"
+  },
+  {
+    "word": "Knell",
+    "meaning": "the sound of a bell sung slowly to announce a death/ a funeral/the end of something"
+  },
+  {
+    "word": "Landscape",
+    "meaning": "everything you can see when you look across a large area of land"
+  },
+  {
+    "word": "Lapidist",
+    "meaning": "a skilled worker who cuts and engraves precious stones"
+  },
+  {
+    "word": "Laxative",
+    "meaning": "a medicine, food/ drink that makes somebody empty their bowels easily"
+  },
+  {
+    "word": "Lease",
+    "meaning": "a legal agreement that allows you to use a building piece of equipment/ some land for a period of time, usually in return for rent"
+  },
+  {
+    "word": "Legend",
+    "meaning": "a story from ancient times about people and events, that may/may not be true"
+  },
+  {
+    "word": "Loquacious",
+    "meaning": "One who talks a lot"
+  },
+  {
+    "word": "Memorandum",
+    "meaning": "a proposal/ report on a particular subject for a person, an organisation, a committee, etc"
+  },
+  {
+    "word": "Mint",
+    "meaning": "a place where money is coined by authority of the government"
+  },
+  {
+    "word": "Momentous",
+    "meaning": "very important or serious"
+  },
+  {
+    "word": "Monologue",
+    "meaning": "a long speech by one person during a conversation that stops other people from speaking or expressing an opinion"
+  },
+  {
+    "word": "Monotheism",
+    "meaning": "the belief that there is only one god"
+  },
+  {
+    "word": "Mortal",
+    "meaning": "subject to death"
+  },
+  {
+    "word": "Mutiny",
+    "meaning": "the act of refusing to obey the orders of somebody in authority, especially by soldiers/ sailors"
+  },
+  {
+    "word": "Mystic",
+    "meaning": "a person who tries to become united with god through prayer and meditation and so understand important things that are beyond normal human understanding"
+  },
+  {
+    "word": "Neophyte",
+    "meaning": "a person who has recently started an activity"
+  },
+  {
+    "word": "Nymphomania",
+    "meaning": "the behaviour of a woman who has or wants to have sex very often"
+  },
+  {
+    "word": "Obeisance",
+    "meaning": "the act of obeying"
+  },
+  {
+    "word": "Octagon",
+    "meaning": "a flat shape with eight straight sides and eight angles"
+  },
+  {
+    "word": "Omnipotent",
+    "meaning": "having total power // able to do anything"
+  },
+  {
+    "word": "Omnipresent",
+    "meaning": "present everywhere -"
+  },
+  {
+    "word": "Oncology",
+    "meaning": "study and treatment of tumours"
+  },
+  {
+    "word": "Optician",
+    "meaning": "a person whose job is to examine people s eyes and to recommend and sell glasses"
+  },
+  {
+    "word": "Opulent",
+    "meaning": "rich and superior in quality"
+  },
+  {
+    "word": "Oration",
+    "meaning": "a formal speech made on a public occasion, especially as part of a ceremony"
+  },
+  {
+    "word": "Orator",
+    "meaning": "a person who is good at public speaking/ who makes formal speeches"
+  },
+  {
+    "word": "Ornithologist",
+    "meaning": "a person who studies birds"
+  },
+  {
+    "word": "Orphan",
+    "meaning": "a child whose parents are dead"
+  },
+  {
+    "word": "Paediatrics",
+    "meaning": "branch of medicine concerned with children and their diseases"
+  },
+  {
+    "word": "Pandemonium",
+    "meaning": "a situation in which there is a lot of noise, activity and confusion, because people are angry/frightened"
+  },
+  {
+    "word": "Pantheism",
+    "meaning": "the belief that god is present in all natural things"
+  },
+  {
+    "word": "Partisan",
+    "meaning": "an ardent and enthusiastic supporter of some person/ activity"
+  },
+  {
+    "word": "Pedestrian",
+    "meaning": "a person walking and not travelling in a vehicle"
+  },
+  {
+    "word": "Peninsula",
+    "meaning": "a large mass of land projecting into a body of water"
+  },
+  {
+    "word": "Philosopher",
+    "meaning": "a person who thinks deeply about things"
+  },
+  {
+    "word": "Pilferage",
+    "meaning": "the act of stealing small amounts or small articles"
+  },
+  {
+    "word": "Pioneer",
+    "meaning": "a person who is the first to study and develop a particular area of knowledge, culture, etc that other people then continue to develop"
+  },
+  {
+    "word": "Plagiarist",
+    "meaning": "someone who uses another person s words/ ideas as if they were his own"
+  },
+  {
+    "word": "Polygon",
+    "meaning": "a flat shape with at least three straight sides and three angles, and usually five or more"
+  },
+  {
+    "word": "Polytheist",
+    "meaning": "one who believes in a plurality of gods"
+  },
+  {
+    "word": "Prodigy",
+    "meaning": "an unusually gifted/intelligent (young) person"
+  },
+  {
+    "word": "Prophet",
+    "meaning": "a person sent by god to teach the people and give them messages from god ( )"
+  },
+  {
+    "word": "Proselyte",
+    "meaning": "a person who has been converted to another religious or political belief"
+  },
+  {
+    "word": "Protocol",
+    "meaning": "a system of fixed rules and formal / behaviour used at official meetings"
+  },
+  {
+    "word": "Pun",
+    "meaning": "the clever or humorous use of a word that has more than one meaning, or of words that have different meanings but sound the same"
+  },
+  {
+    "word": "Pyromania",
+    "meaning": "an obsessive desire to set fire to things"
+  },
+  {
+    "word": "Ransom",
+    "meaning": "money that is paid to kidnappers"
+  },
+  {
+    "word": "Rapacious",
+    "meaning": "greedy for money"
+  },
+  {
+    "word": "Refugee",
+    "meaning": "a person who has been forced to leave his country/ home, because there is a war or for political, religious or social reasons"
+  },
+  {
+    "word": "Retaliate",
+    "meaning": "return the same sort of attack / give tit for tat"
+  },
+  {
+    "word": "Retreat",
+    "meaning": "to move away from a place // to back off"
+  },
+  {
+    "word": "Rhetoric",
+    "meaning": "speech/writing that is intended to influence people, but that is not completely honest/sincere"
+  },
+  {
+    "word": "Ridicule",
+    "meaning": "unkind remarks that make fun of somebody/ something or make him/ it look silly"
+  },
+  {
+    "word": "Ritual",
+    "meaning": "a series of actions that are always performed in the same way, especially as part of a religious ceremony"
+  },
+  {
+    "word": "Sadist",
+    "meaning": "a person who gets pleasure from hurting other people"
+  },
+  {
+    "word": "Sanctity",
+    "meaning": "the state of being very important and worth protecting"
+  },
+  {
+    "word": "Sanguine",
+    "meaning": "optimistic in an apparently difficult situation"
+  },
+  {
+    "word": "Satire",
+    "meaning": "a way of criticizing a person, an idea or an institution in which you use humour to show his/its faults/ weaknesses"
+  },
+  {
+    "word": "Sceptic",
+    "meaning": "someone who habitually doubts accepted beliefs"
+  },
+  {
+    "word": "Scepticism",
+    "meaning": "an attitude of doubting that claims/statements that are true and that something will happen"
+  },
+  {
+    "word": "Schedule",
+    "meaning": "a plan that lists all the work that you have to do and when you must do each thing"
+  },
+  {
+    "word": "Scholar",
+    "meaning": "a person who knows all about a particular subject because he has studied it in detail"
+  },
+  {
+    "word": "Seer",
+    "meaning": "a person who claims that he can see what is going to happen in the future"
+  },
+  {
+    "word": "Seismology",
+    "meaning": "the scientific study of earthquakes"
+  },
+  {
+    "word": "Septuagenarian",
+    "meaning": "a person between the ages of and"
+  },
+  {
+    "word": "Socialist",
+    "meaning": "a person who believes in or supports the belief that everyone has an equal right to a share of a country s wealth and that the government should own and control the main industries"
+  },
+  {
+    "word": "Sojourn",
+    "meaning": "a temporary stay (as a guest)"
+  },
+  {
+    "word": "Soporific",
+    "meaning": "a drug making you want to go to sleep"
+  },
+  {
+    "word": "Sororicide",
+    "meaning": "the murder of one's sister"
+  },
+  {
+    "word": "Suffrage",
+    "meaning": "the right to vote in political elections"
+  },
+  {
+    "word": "Summary",
+    "meaning": "a brief account of a subject"
+  },
+  {
+    "word": "Superstition",
+    "meaning": "the belief that particular events happen in a way that cannot be explained by reason/ science"
+  },
+  {
+    "word": "Sycophant",
+    "meaning": "a person who praises important or powerful people too much and in a way that is not sincere, especially in order to get something from them"
+  },
+  {
+    "word": "Synagogue",
+    "meaning": "a building where the Jews meet for religious worship and teaching"
+  },
+  {
+    "word": "Taxidermy",
+    "meaning": "the art of stuffing dead animals, birds and fish with a special material so that they may look like living ones and can be displayed"
+  },
+  {
+    "word": "Teetotaller",
+    "meaning": "a person who does not drink alcohol"
+  },
+  {
+    "word": "Temporal",
+    "meaning": "connected with/ limited by time"
+  },
+  {
+    "word": "Tenacious",
+    "meaning": "sticking together"
+  },
+  {
+    "word": "Terrestrial",
+    "meaning": "living on the land/on the ground, rather than in water/on trees/ in the air"
+  },
+  {
+    "word": "Terrorist",
+    "meaning": "a person who uses violent action in order to achieve political aims or to force a government to act"
+  },
+  {
+    "word": "Theism",
+    "meaning": "belief in the existence of god"
+  },
+  {
+    "word": "Theology",
+    "meaning": "the study of religion and beliefs"
+  },
+  {
+    "word": "Topology",
+    "meaning": "the way the parts of something are arranged and related"
+  },
+  {
+    "word": "Traitor",
+    "meaning": "a person who works against his country"
+  },
+  {
+    "word": "Transitory",
+    "meaning": "continuing for only a short time"
+  },
+  {
+    "word": "Trivial",
+    "meaning": "not important or serious // not worth considering"
+  },
+  {
+    "word": "Truant",
+    "meaning": "a child who stays away from school without permission"
+  },
+  {
+    "word": "Truism",
+    "meaning": "a statement that is clearly true and does not add anything interesting or important to a discussion"
+  },
+  {
+    "word": "Usurer",
+    "meaning": "a person who lends money to people at unfairly high rates of interest"
+  },
+  {
+    "word": "Vandal",
+    "meaning": "a person who deliberately destroys/damages public property"
+  },
+  {
+    "word": "Venerable",
+    "meaning": "impressive by reason of age // profoundly honoured"
+  },
+  {
+    "word": "Veracious",
+    "meaning": "habitually speaking the truth // precisely accurate"
+  },
+  {
+    "word": "Verbatim",
+    "meaning": "exactly as spoken/written // word for word"
+  },
+  {
+    "word": "Verbose",
+    "meaning": "using/containing more words than are needed"
+  },
+  {
+    "word": "Veteran",
+    "meaning": "a person who has a lot of experience in a particular area/activity"
+  },
+  {
+    "word": "Virtuoso",
+    "meaning": "someone who is dazzlingly skilled in any field // a musician who is a master of technique and artistry / a person highly skilled in music"
+  },
+  {
+    "word": "Volley",
+    "meaning": "a lot of bullets, stones, arrows etc that are fired/ thrown at the same time"
+  },
+  {
+    "word": "Vulnerable",
+    "meaning": "weak and easily hurt physically/ emotionally"
+  },
+  {
+    "word": "Zealot",
+    "meaning": "a person who is fanatical and uncompromising in pursuit of their religious, political, or other ideals"
+  },
+  {
+    "word": "Abandon",
+    "meaning": "to leave"
+  },
+  {
+    "word": "Abattoir",
+    "meaning": "a place where animals are slaughtered for consumption as food"
+  },
+  {
+    "word": "Aberration",
+    "meaning": "a fact, an action or a way of behaving that is not usual, a disorder in one s mental state"
+  },
+  {
+    "word": "Abridgement",
+    "meaning": "a shortened version of a written work"
+  },
+  {
+    "word": "Absconders",
+    "meaning": "a fugitive who runs away and hides to avoid arrest/prosecution"
+  },
+  {
+    "word": "Abstain",
+    "meaning": "to choose not to use a vote, either in favour of/ against something"
+  },
+  {
+    "word": "Abstruse",
+    "meaning": "difficult to comprehend obscure"
+  },
+  {
+    "word": "Accolade",
+    "meaning": "praise/an award for an achievement that , people admire"
+  },
+  {
+    "word": "Accord",
+    "meaning": "sympathetic compatibility"
+  },
+  {
+    "word": "Accountant",
+    "meaning": "a person whose profession is to keep accounts"
+  },
+  {
+    "word": "Acquittal",
+    "meaning": "an official decision in court that a person is not guilty of a crime"
+  },
+  {
+    "word": "Acrobat",
+    "meaning": "an entertainer who performs difficult acts such as balancing on high ropes (at a circus) // an athlete who performs acts that need skill, agility and coordination"
+  },
+  {
+    "word": "Acronym",
+    "meaning": "a word formed from the first letters of the words that make up the name of something"
+  },
+  {
+    "word": "Activist",
+    "meaning": "advocating or engaged in activism"
+  },
+  {
+    "word": "Acumen",
+    "meaning": "the ability to make good judgements and take quick decisions"
+  },
+  {
+    "word": "Adept",
+    "meaning": "a person who is good at doing something that is quite difficult"
+  },
+  {
+    "word": "Adhere",
+    "meaning": "to stick firmly"
+  },
+  {
+    "word": "Adroit",
+    "meaning": "quick or skillful or adept in action or thought"
+  },
+  {
+    "word": "Adventitious",
+    "meaning": "associated by chance and not an integral part"
+  },
+  {
+    "word": "Aesthetic",
+    "meaning": "concerned with beauty or the appreciation of beauty"
+  },
+  {
+    "word": "Aggressive",
+    "meaning": "angry, and behaving in a threatening way"
+  },
+  {
+    "word": "Agitation",
+    "meaning": "worry and anxiety that you show by behaving in a nervous way"
+  },
+  {
+    "word": "Agronomy",
+    "meaning": "the application of soil and plant sciences to land management and crop production"
+  },
+  {
+    "word": "Alliteration",
+    "meaning": "the use of the same letter/sound at the beginning of words that are close together"
+  },
+  {
+    "word": "Almanac",
+    "meaning": "a book is published every year giving information for that year about a particular subject/ activity"
+  },
+  {
+    "word": "Almighty",
+    "meaning": "having complete power"
+  },
+  {
+    "word": "Ambivalent",
+    "meaning": "having or showing both good and bad feelings"
+  },
+  {
+    "word": "Amity",
+    "meaning": "a cordial disposition -"
+  },
+  {
+    "word": "Amorphous",
+    "meaning": "having no definite form or distinct shape"
+  },
+  {
+    "word": "Anachronism",
+    "meaning": "a person, a custom or an idea that seems old-fashioned and does not belong to the present"
+  },
+  {
+    "word": "Animism",
+    "meaning": "the belief that plants, objects and natural things each have a living soul"
+  },
+  {
+    "word": "Anniversary",
+    "meaning": "the date on which an event happened in some previous year"
+  },
+  {
+    "word": "Anthology",
+    "meaning": "a collection of poems, stories, etc that have been written by different people and published together in a book // A collection of poems"
+  },
+  {
+    "word": "Anthropoid",
+    "meaning": "resembling a human being in form"
+  },
+  {
+    "word": "Anthropologist",
+    "meaning": "a person who studies about the human race, its origin, developments, customs and beliefs"
+  },
+  {
+    "word": "Antonyms",
+    "meaning": "words of opposite meanings"
+  },
+  {
+    "word": "Apostasy",
+    "meaning": "the state of having rejected your religious beliefs or your political party or a cause"
+  },
+  {
+    "word": "Apostate",
+    "meaning": "one who abandons long-held religious or political convictions"
+  },
+  {
+    "word": "Apostle",
+    "meaning": "a person who strongly believes in a policy or an idea and tries to make other people believe in it"
+  },
+  {
+    "word": "Appraisal",
+    "meaning": "a judgement of the value, performance/nature of somebody/something"
+  },
+  {
+    "word": "Approbation",
+    "meaning": "approval"
+  },
+  {
+    "word": "Aquaphobia",
+    "meaning": "an extreme fear of drowning"
+  },
+  {
+    "word": "Archer",
+    "meaning": "a person who is expert in the use of a bow and arrow"
+  },
+  {
+    "word": "Armoury",
+    "meaning": "a place where arms are kept"
+  },
+  {
+    "word": "Arsonist",
+    "meaning": "a criminal who illegally sets fire to property"
+  },
+  {
+    "word": "Arteries",
+    "meaning": "muscular-walled tubes forming part of the circulation system by which blood (mainly that which has been oxygenated) is conveyed"
+  },
+  {
+    "word": "Artisan",
+    "meaning": "a person who does skilled work, making things with his hands"
+  },
+  {
+    "word": "Asperity",
+    "meaning": "roughness harshness ill temper irritability ,"
+  },
+  {
+    "word": "Assign",
+    "meaning": "to give somebody something that he can use, or some work or responsibility"
+  },
+  {
+    "word": "Association",
+    "meaning": "an official group of people who have joined together for a particular purpose"
+  },
+  {
+    "word": "Assurance",
+    "meaning": "A positive declaration intended to give confidence"
+  },
+  {
+    "word": "Asunder",
+    "meaning": "widely separated especially in space -"
+  },
+  {
+    "word": "Attempt",
+    "meaning": "an act of trying to do something difficult, often with no success"
+  },
+  {
+    "word": "Auditor",
+    "meaning": "a qualified accountant who inspects the accounting records and practices of a business/other organisation"
+  },
+  {
+    "word": "Autocrat",
+    "meaning": "a ruler who has complete power"
+  },
+  {
+    "word": "Autopsy",
+    "meaning": "an official examination of a dead body by a doctor in order to discover the cause of death"
+  },
+  {
+    "word": "Avaricious",
+    "meaning": "having an extreme desire for wealth"
+  },
+  {
+    "word": "Aversion",
+    "meaning": "a strong feeling of not liking somebody/ something"
+  },
+  {
+    "word": "Axiom",
+    "meaning": "a rule/principle that most people believe to be true"
+  },
+  {
+    "word": "Bachelor",
+    "meaning": "a man who remains unmarried"
+  },
+  {
+    "word": "Bald",
+    "meaning": "having little or no hair on the head"
+  },
+  {
+    "word": "Bale",
+    "meaning": "a large bundle bound for storage or transport"
+  },
+  {
+    "word": "Banker",
+    "meaning": "a person who owns a bank or has an important job at a bank"
+  },
+  {
+    "word": "Barracks",
+    "meaning": "a large building/ group of buildings for soldiers to live in"
+  },
+  {
+    "word": "Bashful",
+    "meaning": "disposed to avoid notice"
+  },
+  {
+    "word": "Beast",
+    "meaning": "a large/dangerous animal// a person who is cruel and whose behaviour is uncontrolled"
+  },
+  {
+    "word": "Beguile",
+    "meaning": "to trick somebody into doing something, by being nice to them"
+  },
+  {
+    "word": "Bellicose",
+    "meaning": "a person who is fond of fighting"
+  },
+  {
+    "word": "Benefactor",
+    "meaning": "a person who gives money/ other help to a person or an organisation (school, charity)"
+  },
+  {
+    "word": "Bevy",
+    "meaning": "a large group of people/things of the same kind girls/young women"
+  },
+  {
+    "word": "Bigamy",
+    "meaning": "the crime of marrying somebody when you are still legally married to somebody else"
+  },
+  {
+    "word": "Bilingual",
+    "meaning": "able to speak two languages equally well // written in two languages"
+  },
+  {
+    "word": "Biopsy",
+    "meaning": "the removal of tissue from the body of somebody who is ill and its examination in order to find out more about the disease"
+  },
+  {
+    "word": "Bizarre",
+    "meaning": "very strange or unusual"
+  },
+  {
+    "word": "Brunette",
+    "meaning": "a white skinned woman with dark brown hair"
+  },
+  {
+    "word": "Bulwark",
+    "meaning": "a fencelike structure around a deck (usually plural)"
+  },
+  {
+    "word": "Burglar",
+    "meaning": "a person who enters a building illegally in order to steal"
+  },
+  {
+    "word": "Cacophony",
+    "meaning": "loud confusing disagreeable sounds"
+  },
+  {
+    "word": "Camouflage",
+    "meaning": "The disguising of military personnel, equipment, and installations by painting or covering them to make them blend in with their surroundings"
+  },
+  {
+    "word": "Canine",
+    "meaning": "connected with dogs"
+  },
+  {
+    "word": "Capitalist",
+    "meaning": "a person who supports the fact that a country s businesses and industry are controlled and run by private owners rather than by the government"
+  },
+  {
+    "word": "Captor",
+    "meaning": "a person who captures a person/ an animal and keeps him/it as a prisoner"
+  },
+  {
+    "word": "Caravan",
+    "meaning": "a covered vehicle, used for living by gypsies"
+  },
+  {
+    "word": "Caricature",
+    "meaning": "a funny drawing/ picture of somebody that - exaggerates some of his features"
+  },
+  {
+    "word": "Cartographer",
+    "meaning": "a person who draws or makes maps"
+  },
+  {
+    "word": "Cartoon",
+    "meaning": "an amusing drawing about politics/events in the news"
+  },
+  {
+    "word": "Cavalier",
+    "meaning": "a courtly gentle man, especially one acting as a lady s escort"
+  },
+  {
+    "word": "Cavalry",
+    "meaning": "the part of the army that fought on horses (in the past) // the part of the modern army that uses armoured vehicles"
+  },
+  {
+    "word": "Celestial",
+    "meaning": "of the sky/ heaven"
+  },
+  {
+    "word": "Celibacy",
+    "meaning": "the state of living unmarried"
+  },
+  {
+    "word": "Celibate",
+    "meaning": "a person who has chosen not to marry"
+  }
+]

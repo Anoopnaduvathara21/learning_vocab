@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="A premium vocabulary learning application.">
+  <title>VocabMaster</title>
+  <link rel="stylesheet" href="style.css">
+  <meta name="theme-color" content="#4f46e5">
+  <link rel="manifest" href="manifest.json">
+  <link rel="icon" type="image/svg+xml"
+    href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📚</text></svg>">
+</head>
+
+<body>
+  <div class="app-container">
+    <!-- Header -->
+    <header class="app-header">
+      <div class="logo-container" id="goHomeBtn">
+        <span class="logo-icon">📚</span>
+        <h1>VocabMaster</h1>
+      </div>
+      <div class="header-actions">
+        <div class="streak-badge" title="Current Streak">
+          🔥 <span id="streakCount">0</span>
+        </div>
+        <button id="themeToggle" class="icon-button" aria-label="Toggle Dark Mode">
+          🌙
+        </button>
+      </div>
+    </header>
+
+    <!-- Main Content Area -->
+    <main id="mainContent">
+
+      <!-- VIEW: Home / Dashboard -->
+      <section id="homeView" class="view active">
+        <div class="welcome-banner">
+          <h2>Ready to learn?</h2>
+          <p>Choose a category to start your daily session.</p>
+        </div>
+
+        <div class="grid-container" id="categoryGrid">
+          <!-- Categories will be injected here -->
+        </div>
+      </section>
+
+      <!-- VIEW: Study Mode (Flashcards) -->
+      <section id="studyView" class="view hidden">
+        <div class="view-header">
+          <button class="back-btn" data-target="homeView">← Back</button>
+          <h3 id="studyCategoryTitle">Category</h3>
+          <div class="progress-indicator">
+            <span id="currentIndex">1</span> / <span id="totalIndex">10</span>
+          </div>
+        </div>
+
+        <div class="flashcard-container">
+          <div class="flashcard" id="flashcard">
+            <div class="card-front">
+              <div class="card-content">
+                <span class="card-label">Meaning</span>
+                <p id="cardMeaning" class="card-text">...</p>
+                <span class="tap-hint">Tap to reveal</span>
+              </div>
+            </div>
+            <div class="card-back">
+              <div class="card-content">
+                <span class="card-label">Word</span>
+                <h2 id="cardWord" class="card-title">...</h2>
+                <div class="card-actions">
+                  <button class="action-btn icon-btn" id="speakBtn" aria-label="Pronounce">🔊</button>
+                  <button class="action-btn icon-btn" id="favBtn" aria-label="Add to Favorites">❤️</button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="study-controls">
+          <button id="prevBtn" class="control-btn secondary">Previous</button>
+          <button id="shuffleBtn" class="control-btn icon-only" aria-label="Shuffle">🔀</button>
+          <button id="nextBtn" class="control-btn primary">Next Word</button>
+        </div>
+      </section>
+
+      <!-- VIEW: Quiz Mode -->
+      <section id="quizView" class="view hidden">
+        <div class="view-header">
+          <button class="back-btn" data-target="homeView">Quit Quiz</button>
+          <h3>Test Your Knowledge</h3>
+          <div class="score-display">Score: <span id="quizScore">0</span></div>
+        </div>
+
+        <div class="quiz-container">
+          <div class="question-card">
+            <span class="badget">Question</span>
+            <h2 id="quizQuestion">...</h2>
+          </div>
+
+          <div class="options-grid" id="quizOptions">
+            <!-- Options injected here -->
+          </div>
+        </div>
+
+        <div id="quizFeedback" class="quiz-feedback hidden">
+          <div class="feedback-icon" id="feedbackIcon">✅</div>
+          <p id="feedbackText">Correct!</p>
+          <button id="nextQuestionBtn" class="control-btn primary">Next >></button>
+        </div>
+      </section>
+
+      <!-- VIEW: Search & Favorites -->
+      <section id="listView" class="view hidden">
+        <div class="search-bar">
+          <input type="text" id="searchInput" placeholder="Search dictionary...">
+          <button id="searchClear" class="hidden">✕</button>
+        </div>
+        <div class="filter-tabs">
+          <button class="tab active" data-filter="all">All</button>
+          <button class="tab" data-filter="favorites">Favorites</button>
+        </div>
+        <div id="resultsList" class="results-list">
+          <!-- List items injected here -->
+        </div>
+      </section>
+
+    </main>
+
+    <!-- Bottom Navigation (Mobile) -->
+    <nav class="bottom-nav">
+      <button class="nav-item active" data-target="homeView">
+        <span class="nav-icon">🏠</span>
+        <span class="nav-label">Home</span>
+      </button>
+      <button class="nav-item" data-target="listView">
+        <span class="nav-icon">🔍</span>
+        <span class="nav-label">Explore</span>
+      </button>
+      <!-- Future: Profile/Settings -->
+    </nav>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+
+</html>
